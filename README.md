@@ -208,9 +208,3 @@ define('MAX_STORAGE_SIZE', 5368709120); // 5GB in bytes
 2. Clean up old sessions
 3. Monitor server resources
 4. Optimize media storage
-
-## License
-[Your License Information Here]
-
-## Contact
-[Your Contact Information Here] 
