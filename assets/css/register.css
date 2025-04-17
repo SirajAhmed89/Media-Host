@@ -1,0 +1,120 @@
+.register-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background: var(--primary-gradient);
+}
+
+.register-form {
+    padding: 2rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid black;
+    background: white;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color var(--transition-speed);
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+.error {
+    color: #e53e3e;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+}
+
+.password-strength {
+    height: 4px;
+    background: #edf2f7;
+    margin-top: 0.5rem;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.password-strength-meter {
+    height: 100%;
+    width: 0;
+    transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.strength-weak { 
+    background-color: #fc8181; 
+    width: 33.33%; 
+}
+
+.strength-medium { 
+    background-color: #f6e05e; 
+    width: 66.66%; 
+}
+
+.strength-strong { 
+    background-color: #68d391; 
+    width: 100%; 
+}
+
+.social-login {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e2e8f0;
+    text-align: center;
+}
+
+.social-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 5px;
+    background: white;
+    color: var(--text-color);
+    text-decoration: none;
+    transition: background-color var(--transition-speed);
+}
+
+.social-button:hover {
+    background-color: #f7fafc;
+}
+
+.social-button svg {
+    margin-right: 0.5rem;
+}
+
+.login-link {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.login-link a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}

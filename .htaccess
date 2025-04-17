@@ -1,0 +1,34 @@
+# Basic settings
+Options -Indexes
+RewriteEngine On
+
+# PHP settings
+php_flag display_errors on
+php_value error_reporting E_ALL
+php_value upload_max_filesize 500M
+php_value post_max_size 500M
+php_value max_execution_time 300
+php_value max_input_time 300
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+# Protect sensitive files
+<Files ~ "^\.">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Error documents
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+ErrorDocument 500 /500.php 

@@ -1,0 +1,222 @@
+[26-Feb-2025 22:49:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\test.php on line 44
+[26-Feb-2025 22:51:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[26-Feb-2025 22:51:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[26-Feb-2025 22:51:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:52:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 4
+[26-Feb-2025 22:52:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 4
+[26-Feb-2025 22:56:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:57:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:57:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:57:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\logout.php on line 4
+[26-Feb-2025 22:57:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[26-Feb-2025 22:58:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[26-Feb-2025 22:58:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:58:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[26-Feb-2025 22:58:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\delete.php on line 4
+[26-Feb-2025 22:58:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\logout.php on line 4
+[26-Feb-2025 22:58:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:23:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:23:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:23:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:23:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:23:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:24:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:28:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 12:28:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[27-Feb-2025 12:28:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\dashboard\delete.php on line 4
+[27-Feb-2025 13:44:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\logout.php on line 4
+[27-Feb-2025 13:44:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:44:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:45:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:45:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:46:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\login.php on line 4
+[27-Feb-2025 13:49:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[27-Feb-2025 13:56:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list' in D:\Xampp\htdocs\mediahost\dashboard\index.php:24
+Stack trace:
+#0 D:\Xampp\htdocs\mediahost\dashboard\index.php(24): PDO->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 24
+[27-Feb-2025 13:56:21 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list' in D:\Xampp\htdocs\mediahost\dashboard\index.php:24
+Stack trace:
+#0 D:\Xampp\htdocs\mediahost\dashboard\index.php(24): PDO->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 24
+[27-Feb-2025 13:56:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list' in D:\Xampp\htdocs\mediahost\dashboard\index.php:24
+Stack trace:
+#0 D:\Xampp\htdocs\mediahost\dashboard\index.php(24): PDO->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 24
+[27-Feb-2025 14:00:50 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 14:42:39 Europe/Berlin] PHP Warning:  require_once(../includes/auth.php): Failed to open stream: No such file or directory in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[27-Feb-2025 14:42:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/auth.php' (include_path='D:\Xampp\php\PEAR') in D:\Xampp\htdocs\mediahost\dashboard\index.php:4
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[27-Feb-2025 14:43:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[27-Feb-2025 14:43:24 Europe/Berlin] PHP Warning:  require_once(../includes/auth.php): Failed to open stream: No such file or directory in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[27-Feb-2025 14:43:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/auth.php' (include_path='D:\Xampp\php\PEAR') in D:\Xampp\htdocs\mediahost\dashboard\index.php:4
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\index.php on line 4
+[27-Feb-2025 14:51:59 Europe/Berlin] Error updating last activity: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_activity' in 'field list'
+[27-Feb-2025 15:06:46 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 15:09:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[27-Feb-2025 15:09:12 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 15:09:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[27-Feb-2025 15:09:52 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 16:21:44 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 19:32:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[27-Feb-2025 19:32:25 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: mime_content_type(): Argument #1 ($filename) cannot be empty in D:\Xampp\htdocs\mediahost\dashboard\upload.php:51
+Stack trace:
+#0 D:\Xampp\htdocs\mediahost\dashboard\upload.php(51): mime_content_type('')
+#1 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 51
+[27-Feb-2025 19:32:25 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: mime_content_type(): Argument #1 ($filename) cannot be empty in D:\Xampp\htdocs\mediahost\dashboard\upload.php:51
+Stack trace:
+#0 D:\Xampp\htdocs\mediahost\dashboard\upload.php(51): mime_content_type('')
+#1 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 51
+[27-Feb-2025 19:32:52 Europe/Berlin] FFmpeg not found on the system. Thumbnail generation skipped.
+[27-Feb-2025 19:32:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:128
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 128
+[27-Feb-2025 19:33:49 Europe/Berlin] FFmpeg not found on the system. Thumbnail generation skipped.
+[27-Feb-2025 19:33:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:128
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 128
+[27-Feb-2025 19:34:44 Europe/Berlin] FFmpeg not found on the system. Thumbnail generation skipped.
+[27-Feb-2025 19:34:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:128
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 128
+[27-Feb-2025 19:35:25 Europe/Berlin] FFmpeg not found on the system. Thumbnail generation skipped.
+[27-Feb-2025 19:35:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:128
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 128
+[27-Feb-2025 19:43:11 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:12:23 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:26:01 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:26:01 Europe/Berlin] Upload error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[27-Feb-2025 20:26:26 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:26:26 Europe/Berlin] Upload error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+        VALUES (?, ?, ?, ?, ?,)' at line 1
+[27-Feb-2025 20:27:32 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:31:56 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:31:56 Europe/Berlin] PHP Warning:  unlink(D:\Xampp\htdocs\mediahost\dashboard/uploads/WIN_20250218_14_33_04_Pro_2025-02-27_20-31-55.mp4): Resource temporarily unavailable in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 134
+[27-Feb-2025 20:31:56 Europe/Berlin] Upload error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+        VALUES (?, ?, ?, ?, ?)' at line 1
+[27-Feb-2025 20:32:31 Europe/Berlin] PHP Warning:  Undefined variable $timestamp in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 63
+[27-Feb-2025 20:32:31 Europe/Berlin] PHP Warning:  Undefined variable $timestamp in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 80
+[27-Feb-2025 20:32:31 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:32:31 Europe/Berlin] Upload error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+        VALUES (?, ?, ?, ?, ?)' at line 1
+[27-Feb-2025 20:33:15 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:37:45 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 20:59:58 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 21:00:19 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 21:02:48 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 21:09:26 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[27-Feb-2025 21:14:20 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 20:29:52 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:04:39 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:34:00 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:34:36 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:34:55 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:39:02 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:40:41 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:41:58 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:43:05 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:43:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[28-Feb-2025 21:44:07 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:52:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 51
+[28-Feb-2025 21:53:12 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:54:01 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 21:58:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 54
+[28-Feb-2025 21:58:14 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 22:00:39 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 22:01:21 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 22:02:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 54
+[28-Feb-2025 22:02:56 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 22:03:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 54
+[28-Feb-2025 22:03:43 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 22:09:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Xampp\htdocs\mediahost\register.php on line 54
+[28-Feb-2025 22:09:18 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mediahost.password_reset_tokens' doesn't exist
+[28-Feb-2025 22:09:20 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mediahost.password_reset_tokens' doesn't exist
+[28-Feb-2025 22:09:56 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mediahost.password_reset_tokens' doesn't exist
+[28-Feb-2025 22:28:07 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Xampp\htdocs\mediahost\forgot-password.php on line 62
+[28-Feb-2025 22:28:07 Europe/Berlin] Failed to send password reset email to: samadjawad929@gmail.com
+[28-Feb-2025 22:28:19 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Xampp\htdocs\mediahost\forgot-password.php on line 62
+[28-Feb-2025 22:28:19 Europe/Berlin] Failed to send password reset email to: samadjawad929@gmail.com
+[28-Feb-2025 22:47:16 Europe/Berlin] Failed to generate video thumbnail: 'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+[28-Feb-2025 23:06:41 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u498094401_mediahost'@'localhost' (using password: YES)
+[28-Feb-2025 23:06:44 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u498094401_mediahost'@'localhost' (using password: YES)
+[28-Feb-2025 23:06:45 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u498094401_mediahost'@'localhost' (using password: YES)
+[28-Feb-2025 23:10:29 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u498094401_mediahost'@'localhost' (using password: YES)
+[28-Feb-2025 23:11:57 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u498094401_mediahost'@'localhost' (using password: YES)
+[28-Feb-2025 23:26:54 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[28-Feb-2025 23:27:15 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[03-Mar-2025 22:10:38 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[03-Mar-2025 22:10:40 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[03-Mar-2025 22:11:11 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[03-Mar-2025 22:11:19 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u669746117_username1'@'localhost' (using password: YES)
+[03-Mar-2025 22:11:39 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'u669746117_database1'
+[03-Mar-2025 22:12:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:179
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 179
+[03-Mar-2025 22:14:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:179
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 179
+[03-Mar-2025 22:15:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in D:\Xampp\htdocs\mediahost\dashboard\upload.php:179
+Stack trace:
+#0 {main}
+  thrown in D:\Xampp\htdocs\mediahost\dashboard\upload.php on line 179
